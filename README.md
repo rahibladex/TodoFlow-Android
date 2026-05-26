@@ -44,7 +44,7 @@ TodoFlow is a modern, minimalist To-Do List native Android application built ent
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rahuljangra396/TodoFlow-Android.git
+   git clone https://github.com/rahibladex/TodoFlow-Android.git
    cd TodoFlow-Android
    ```
 
